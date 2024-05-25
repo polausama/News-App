@@ -2,15 +2,6 @@
 
 #### Mobile application(flutter) that brings the world's latest news and trends right to your fingertips.
 
-### Key Features:
-
-- NewsAPI to fetch and parse international news.
-- Multi-country headlines across categories like business, technology, Sports, entertainment etc.
-- Flutter for building beautiful iOS and Android apps.
-- Bloc(Cubit) state management for a reactive UI.
-- Persistent Storage: using Hive.
-- Webview integration to read full articles in the app.
-- MVVM architecture for a structured and organized codebase.
 
 ## App Screens
 <div>
